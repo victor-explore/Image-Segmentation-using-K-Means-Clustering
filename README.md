@@ -1,5 +1,3 @@
-Here's a README.md for the GitHub repository:
-
 # Image Segmentation using K-Means Clustering
 
 This repository contains a Python implementation of image segmentation using K-means clustering. The code demonstrates how to segment images by clustering pixels based on their color values.
